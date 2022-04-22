@@ -68,6 +68,7 @@ ul {
 .buttons-nav:hover,
 .buttons-nav:focus {
   background-color: #2196f3;
+  color: #FFFFFF;
 }
 
 .name-of-part {
